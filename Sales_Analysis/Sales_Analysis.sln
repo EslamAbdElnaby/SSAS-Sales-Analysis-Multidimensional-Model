@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "Sales_Analysis", "Sales_Analysis.dwproj", "{A16A8030-AF31-6C71-CEA9-2B21C6BF807B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A16A8030-AF31-6C71-CEA9-2B21C6BF807B}.Development|Default.ActiveCfg = Development
+		{A16A8030-AF31-6C71-CEA9-2B21C6BF807B}.Development|Default.Build.0 = Development
+		{A16A8030-AF31-6C71-CEA9-2B21C6BF807B}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C1A9D0-F27F-4C7F-8338-6EFA24CD91D5}
+	EndGlobalSection
+EndGlobal
