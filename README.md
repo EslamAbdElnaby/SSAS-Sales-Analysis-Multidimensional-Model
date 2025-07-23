@@ -2,6 +2,7 @@ Project Title:
 SSAS – Sales Analysis Multidimensional Model
 Project Description:
 As part of the Business Intelligence module in the Power BI intensive program at ITI, I developed a complete SSAS multidimensional project to analyze sales performance. The model was designed to enable deep exploration of product, customer, and channel insights over time using KPIs, calculated measures, and perspectives.
+
 Key Features:
 •	Built Three SSAS Cubes to cover various analytical needs:
 -	Product Cube: to analyze product sales quantities over years.
